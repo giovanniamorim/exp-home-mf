@@ -1,0 +1,58 @@
+.container-home {
+    margin-top: 60px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.content {
+    max-width: 100%;
+}
+
+.content h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+.content h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+.content .subtitle {
+    font-size: 24px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+.description {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #504f4f;
+}
+
+.btn-more {
+    background-color: #952f85;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    
+}
+
+.text {
+    float: left;
+    width: 50%;
+}
+
+.image {
+    float: right;
+    width: 50%;
+}
